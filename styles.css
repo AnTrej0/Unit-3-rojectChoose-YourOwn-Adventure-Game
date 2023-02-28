@@ -1,0 +1,63 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+
+}
+.lightbulb-scene {
+    width: 500px;
+}
+.Smile-scene {
+width: 500px;
+}
+.congrats-scene {
+width: 500px;
+}
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.option-one-screen{
+   display:none;
+}
+
+
+
+.option-two-screen{
+   display:none;
+}
+
+
+.option-one-end{
+   display:none;
+}
+
+.option-two-end{
+   display:none;
+}
